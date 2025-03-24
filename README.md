@@ -69,14 +69,6 @@ El proyecto contiene los siguientes archivos:
   1. Haz clic en "Generar Balance General".
   2. Visualiza los activos, pasivos y capital calculados.
 
-## Capturas de Pantalla
-
-Asegúrate de capturar imágenes de las siguientes funcionalidades para incluirlas aquí:
-- Registro de transacciones.
-- Esquemas de mayor generados.
-- Balanza de comprobación.
-- Balance general.
-
 ## Contribuciones
 
 Las contribuciones son bienvenidas. Si deseas mejorar la aplicación, por favor abre un issue o envía un pull request.
