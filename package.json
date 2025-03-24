@@ -1,0 +1,27 @@
+{
+  "name": "contabilidad-app",
+  "version": "1.0.0",
+  "description": "Este proyecto es una aplicación web para registrar y clasificar transacciones contables básicas. Permite gestionar asientos de apertura, compras en efectivo, compras a crédito, compras combinadas, anticipos de clientes, compras de papelería y pagos de rentas pagadas por anticipado. Además, genera **esquemas de mayor**, **balanza de comprobación** y **balance general**.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/baip49/contabilidad-app.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/baip49/contabilidad-app/issues"
+  },
+  "homepage": "https://github.com/baip49/contabilidad-app#readme",
+  "dependencies": {
+    "body-parser": "^1.20.3",
+    "express": "^4.21.2",
+    "json2csv": "^6.0.0-alpha.2"
+  }
+}
